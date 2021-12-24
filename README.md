@@ -1,12 +1,11 @@
-## Johnson Hung:moyai:
 -[LinkedIn](https://www.linkedin.com/in/johnson-hung/) -[Resume](https://drive.google.com/file/d/1onakZ0uhyZRII9sYHPTSW4XrNf6-RXAj/view?usp=sharing)
 
 `> In progress...`
 ### Education
 - **Texas A&M University**, College Station, TX `[Aug. 2021 – Present]`
-  - Master of Computer Science, GPA: 4.0 / 4.0
+  - Master of Computer Science
 - **National Taiwan University**, Taipei, Taiwan `[Sep. 2017 – Jun. 2021]`
-  - Bachelor of Science in Atmospheric Science, GPA: 3.6 / 4.0
+  - Bachelor of Science in Atmospheric Science
 ### Experience
 - **Meta**, Menlo Park, CA `[May 2022 - Aug. 2022]`
   - Software Engineer Intern
