@@ -15,17 +15,8 @@
 - Git, POSIX Threads, OpenSSL, Rails, React, Redux, NodeJS, Express, MongoDB, Mongoose, Passport, AWS, Heroku
 - Unity, Blender
 ### Projects
-- **Naive Raycasting** :gear: `[Dec. 2021 - Present]`
-  - Demonstration of raycasting and its application to game development (see more details in this [repo](https://github.com/johnson-hung/esurvey-server))
-- **E-Survey** :desktop_computer: `[Dec. 2021]`
-  - Feedback collection through email surveys (see more details in this [repo](https://github.com/johnson-hung/esurvey-server))
-- **Secure Person2Person Micropayment System** :gear: `[Nov. 2019 – Dec. 2019]`
-  - A Linux socket program that allows one client to send messages to another client (see more details in this [repo](https://github.com/johnson-hung/esurvey-server))
-- **New Project** :video_game: (Multiplayer game, PC) `[Feb. 2020 – Mar. 2020]` [Demo](https://youtu.be/CKx3u-9TNCU)
-  - Created with Unity and utilized Photon Unity Networking (PUN) multiplayer framework
-  - Supported 20 concurrent users and 500 msg/sec per room with Photon Cloud service
-  - Implemented synchronization of game objects, joining and creating rooms based on PUN
-- **Save Sheep** :video_game: (Puzzle game, Mobile) `[Aug. 2019 – Sep. 2019]` [Demo](https://youtu.be/KgRwGpgLYB4)
-  - Published on Google Play, earned 5-star rating in average, and reached over 1000 downloads
-  - Featured grid-based interactions, movable obstacles and NPCs with A-star algorithm
-  - Provided in-game level editor for players to create and load custom level by numbers
+- :gear: **Naive Raycasting** `[Dec. 2021 - Present]` [repo](https://github.com/johnson-hung/esurvey-server)
+- :desktop_computer: **E-Survey** `[Dec. 2021]` [repo](https://github.com/johnson-hung/esurvey-server)
+- :gear: **Secure Person2Person Micropayment System** `[Nov. 2019 – Dec. 2019]` [repo](https://github.com/johnson-hung/esurvey-server)
+- :video_game: **New Project** (Multiplayer game, PC) `[Feb. 2020 – Mar. 2020]` [demo](https://youtu.be/CKx3u-9TNCU)
+- :video_game: **Save Sheep** (Puzzle game, Mobile) `[Aug. 2019 – Sep. 2019]` [demo](https://youtu.be/KgRwGpgLYB4)
