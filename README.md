@@ -14,7 +14,7 @@
 - Git, POSIX Threads, OpenSSL, Rails, React, Redux, NodeJS, Express, MongoDB, Mongoose, Passport, AWS, Heroku
 - Unity, Blender
 ### Projects
-- :gear: **Naive Raycasting** `[C/C++]` `[Dec. 2021 - Present]` -[repo](https://github.com/johnson-hung/naive-raycasting) -[demo](https://youtu.be/-meFQtiZROw)
+- :gear: **Naive Raycasting** `[C/C++]` `[Dec. 2021 - Present]` -[repo](https://github.com/johnson-hung/naive-raycasting) -[demo](https://youtu.be/ISGBiUehNXw)
 - :desktop_computer: **E-Survey** `[JavaScript]` `[Dec. 2021]` -[repo](https://github.com/johnson-hung/esurvey-server)
 - :desktop_computer: **Computer-Architecture Long-term Mentoring (CALM) Program Website** `[Ruby]` `[Oct. 2021 - Dec. 2021]` -[repo](https://github.com/johnson-hung/casa)
 - :video_game: **New Project** (Multiplayer game, PC) `[C#]` `[Feb. 2020 – Mar. 2020]` -[demo](https://youtu.be/CKx3u-9TNCU)
