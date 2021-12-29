@@ -11,8 +11,8 @@
   - Software Engineer Intern
 ### Technologies and Tools
 - C/C++, C#, Java, Python, HTML, CSS, JavaScript, Ruby
-- Git, POSIX Threads, OpenSSL, Rails, React, Redux, NodeJS, Express, MongoDB, Mongoose, Passport, AWS, Heroku
-- Unity, Blender
+- SDL2, POSIX Threads, OpenSSL, Rails, React, Redux, NodeJS, Express, MongoDB, Mongoose, Passport
+- Git, Unity, Blender, Heroku, AWS
 ### Projects
 - :gear: **Naive Raycasting** `[C/C++]` `[Dec. 2021 - Present]` -[repo](https://github.com/johnson-hung/naive-raycasting) -[demo](https://youtu.be/ISGBiUehNXw)
 - :desktop_computer: **E-Survey** `[JavaScript]` `[Dec. 2021]` -[repo](https://github.com/johnson-hung/esurvey-server)
