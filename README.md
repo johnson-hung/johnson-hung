@@ -1,4 +1,4 @@
--[LinkedIn](https://www.linkedin.com/in/johnson-hung/) -[Portfolio](https://johnson-hung.github.io/portfolio/) -[Resume](https://drive.google.com/file/d/1vCj3W6AZJKtNryG79J5XWzcgse6iwae5/view?usp=sharing)
+-[LinkedIn](https://www.linkedin.com/in/johnson-hung/) -[Portfolio](https://johnson-hung.github.io/portfolio/) -[Resume](https://drive.google.com/file/d/1vCj3W6AZJKtNryG79J5XWzcgse6iwae5/view?usp=sharing) -[Youtube](https://www.youtube.com/channel/UCuumxrfwGRP3YnIExgAjkCQ)
 
 `> In progress...`
 ### Education
