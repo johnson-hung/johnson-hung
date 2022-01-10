@@ -9,12 +9,14 @@
 ### Experience
 - **Meta (formerly Facebook)**, Menlo Park, CA `[May 2022 - Aug. 2022]`
   - Software Engineer Intern
+- **Soft Interaction Lab**, College Station, TX `[Jan. 2022 - May. 2022]`
+  - Graduate Assistant (VR Developer)
 ### Technologies and Tools
 - C/C++, C#, Java, Python, HTML, CSS, JavaScript, Ruby
 - SDL2, POSIX Threads, OpenSSL, Rails, React, Redux, NodeJS, Express, MongoDB, Mongoose, Passport
 - Git, Unity, Blender, Heroku, AWS
 ### Projects
-- :gear: **Naive Raycasting** `[C/C++]` `[Dec. 2021 - Present]` -[repo](https://github.com/johnson-hung/naive-raycasting) -[demo](https://youtu.be/Z8ZcTcYVCt0)
+- :gear: **Naive Raycasting** `[C/C++]` `[Dec. 2021 - Jan. 2022]` -[repo](https://github.com/johnson-hung/naive-raycasting) -[demo](https://youtu.be/Z8ZcTcYVCt0)
 - :desktop_computer: **E-Survey** `[JavaScript]` `[Dec. 2021]` -[repo](https://github.com/johnson-hung/esurvey-server)
 - :desktop_computer: **Computer-Architecture Long-term Mentoring (CALM) Program Website** `[Ruby]` `[Oct. 2021 - Dec. 2021]` -[repo](https://github.com/johnson-hung/casa)
 - :video_game: **New Project** (Multiplayer game, PC) `[C#]` `[Feb. 2020 – Mar. 2020]` -[demo](https://youtu.be/CKx3u-9TNCU)
