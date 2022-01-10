@@ -9,7 +9,7 @@
 ### Experience
 - **Meta (formerly Facebook)**, Menlo Park, CA `[May 2022 - Aug. 2022]`
   - Software Engineer Intern
-- **Soft Interaction Lab**, College Station, TX `[Jan. 2022 - May. 2022]`
+- **Soft Interaction Lab**, College Station, TX `[Jan. 2022 - May 2022]`
   - Graduate Assistant (VR Developer)
 ### Technologies and Tools
 - C/C++, C#, Java, Python, HTML, CSS, JavaScript, Ruby
