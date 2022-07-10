@@ -2,19 +2,19 @@
 
 `> In progress...`
 ### Education
-- **Texas A&M University**, College Station, TX `[Aug. 2021 – Present]`
+- **Texas A&M University**, College Station, TX `[Aug. 2021 – Dec. 2022]`
   - Master of Computer Science
 - **National Taiwan University**, Taipei, Taiwan `[Sep. 2017 – Jun. 2021]`
   - Bachelor of Science in Atmospheric Science
 ### Experience
 - **Meta (formerly Facebook)**, Menlo Park, CA `[May 2022 - Aug. 2022]`
-  - Software Engineer Intern
+  - Software Engineer Intern, Holograms
 - **Soft Interaction Lab**, College Station, TX `[Jan. 2022 - May 2022]`
   - Graduate Assistant (VR Developer)
 ### Technologies and Tools
-- C/C++, C#, Java, Python, HTML, CSS, JavaScript, Ruby
-- SDL2, POSIX Threads, OpenSSL, Rails, React, Redux, NodeJS, Express, MongoDB, Mongoose, Passport
-- Git, Unity, Blender, Heroku, AWS
+- C/C++, HLSL, C#, Java, Python, HTML, CSS, JavaScript, Ruby
+- POSIX Threads, SDL2, OpenSSL, Rails, React, Redux, NodeJS, Express, MongoDB, Mongoose, Passport
+- Git, Mercurial, Unity, Blender, Heroku, AWS
 ### Projects
 - :gear: **Naive Raycasting** `[C/C++]` `[Dec. 2021 - Jan. 2022]` -[repo](https://github.com/johnson-hung/naive-raycasting) -[demo](https://youtu.be/Z8ZcTcYVCt0)
 - :desktop_computer: **E-Survey** `[JavaScript]` `[Dec. 2021]` -[repo](https://github.com/johnson-hung/esurvey-server)
