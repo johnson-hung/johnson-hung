@@ -7,6 +7,8 @@
 - **National Taiwan University**, Taipei, Taiwan `[Sep. 2017 – Jun. 2021]`
   - Bachelor of Science in Atmospheric Science
 ### Experience
+- **Bloomberg**, New York, NY `[Mar. 2022 - Present]`
+  - Software Engineer, TP Query Infra
 - **Meta (formerly Facebook)**, Menlo Park, CA `[May 2022 - Aug. 2022]`
   - Software Engineer Intern, Holograms
 - **Soft Interaction Lab**, College Station, TX `[Jan. 2022 - May 2022]`
